@@ -170,18 +170,18 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 
 - **Geek Streak 30-Day Challenge**: Completed a 30-day streak from July to August 2024.
 - **Multiple Certifications**: Acquired certifications in Python, Data Structures, Java, DBMS, and more through platforms like Salesforce Trailhead and Infosys Springboard.
- 
+ <!--
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-Abs6187.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-Abs6187.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-Abs6187.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+------>
 
 
 - **LinkedIn**: [Abhay Gupta](https://www.linkedin.com/in/abhay-gupta)
-- **GitHub**: [Abhay Gupta](https://github.com/abhaygupta) -->
+- **GitHub**: [Abhay Gupta](https://github.com/abhaygupta) 
 
 
 
@@ -195,6 +195,7 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 Feel free to explore the projects and contribute! I am open to collaborations and partnerships. Reach out if you have an idea or project where we can work together.
 
 ---
-
+<!--
 ### ⭐ Thank you for visiting this repository! Keep learning, keep growing.
 [![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abs6187)](https://github.com/abs6187/github-readme-stats)
+-->
