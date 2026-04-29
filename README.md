@@ -180,8 +180,8 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 ------>
 
 
-- **LinkedIn**: [Abhay Gupta](https://www.linkedin.com/in/abhay-gupta)
-- **GitHub**: [Abhay Gupta](https://github.com/abhaygupta) 
+- **LinkedIn**: [Abhay Gupta](https://www.linkedin.com/in/abhay-gupta-197b17264/)
+- **GitHub**: [Abhay Gupta](https://github.com/Abs6187) 
 
 
 
