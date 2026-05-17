@@ -47,18 +47,19 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,cpp,angular,django,docker,linux,postman,windows,wordpress,tensorflow,supabase,replit" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,c,java,nextjs,mysql,flask" /><br><br>
+    <img src="https://skillicons.dev/icons?i=cpp,angular,django,windows,wordpress,tensorflow,supabase,replit" /><br>
 </div>
 
 <br/>
 
 ### **Technical Skills Overview**
 - **Programming Languages**: C, C++, Java, Python, JavaScript
-- **Frontend & Web Technologies**: Next.js 15, Angular 19, Node.js, Express.js, Flask, Django, Gradio, Streamlit
+- **Frontend & Web Technologies**: Next.js 15, Angular 19, Node.js, Flask, Django, Gradio, Streamlit
 - **Databases**: MySQL, MongoDB, MongoDB Atlas
 - **AI/ML & Data Science**: Computer Vision (YOLOv11), NLP, Gen AI, RAG Systems, Multi-Agent Systems
-- **Tools & Platforms**: Docker, Git/GitHub, Appian, Linux, Postman, Hugging Face, ImageKit
+- **Tools & Platforms**: Git/GitHub, Appian, Hugging Face, ImageKit
 - **Soft Skills**: Stakeholder Communication, Agile Methodologies, Problem-Solving
 
 <br/>
