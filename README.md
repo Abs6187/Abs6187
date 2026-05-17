@@ -48,7 +48,7 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,cpp,angular,django,docker,linux,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,cpp,angular,django,docker,linux,postman,windows,wordpress,tensorflow,supabase,replit" /><br>
 </div>
 
 <br/>
