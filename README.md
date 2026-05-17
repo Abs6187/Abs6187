@@ -6,14 +6,13 @@
 
 
 Welcome to the **Abhay Gupta** repository! This is the central hub for all the projects, resources, and contributions related to **Abhay Gupta**, a passionate software engineer, mentor, and community builder in the tech domain.
- </div>
  
 <div align="center"> 
   <a href="mailto:contact2abhaygupta6187@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/abhay-gupta-197b17264](https://www.linkedin.com/in/abhay-gupta-197b17264" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/abhay-gupta-197b17264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://huggingface.co/Abs6187" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" target="_blank" />
@@ -23,8 +22,12 @@ Welcome to the **Abhay Gupta** repository! This is the central hub for all the p
   <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
 </a>
 
-  <!--<a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options </a> -->
+  <!--
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  sqlite, safari, google-chrome are other good icon options 
+  -->
   
 </div>
 
@@ -45,8 +48,18 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask,cpp,angular,django,docker,linux,postman" /><br>
 </div>
+
+<br/>
+
+### **Technical Skills Overview**
+- **Programming Languages**: C, C++, Java, Python, JavaScript
+- **Frontend & Web Technologies**: Next.js 15, Angular 19, Node.js, Express.js, Flask, Django, Gradio, Streamlit
+- **Databases**: MySQL, MongoDB, MongoDB Atlas
+- **AI/ML & Data Science**: Computer Vision (YOLOv11), NLP, Gen AI, RAG Systems, Multi-Agent Systems
+- **Tools & Platforms**: Docker, Git/GitHub, Appian, Linux, Postman, Hugging Face, ImageKit
+- **Soft Skills**: Stakeholder Communication, Agile Methodologies, Problem-Solving
 
 <br/>
 <hr/>
@@ -65,7 +78,7 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 - Implemented a multi-agent system with AI-powered itinerary generation, geo-based attraction search, and chat-bot assistant with MCP (Model Context Protocol) Servers
 - Created responsive design with downloadable itineraries and deployed on Hugging Face Spaces
 - **Technologies**: Gemini API, MongoDB Atlas, Cloudflare AI SDK, Hugging Face, GitHub, Postman
-- **Links**: [Live Demo](https://huggingface.co/spaces/Abs6187/AgentX-Travel-India) | [GitHub Repository](https://github.com/Abs6187/AgentX-Travel-India) | [Presentation Video](https://www.youtube.com/watch?v=example)
+- **Links**: [Live Demo](https://huggingface.co/spaces/Abs6187/AgentX-Travel-India) | [GitHub Repository](https://github.com/Abs6187/AgentX-Travel-India) | [Presentation Video](https://youtu.be/1l1WXob-diM?si=50rG6Y_3lolsYnRz)
 
 ### 2. **ReelsPRO – Positive. Responsible. Original**[1]
 **ML & Full-Stack Developer | HackSRIT'25 | May 2025**
@@ -74,7 +87,7 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 - Deep AI integration: automatic tagging, moderation, and personalized feeds
 - Seamless drag-and-drop uploads and real-time media optimization via ImageKit
 - **Tech Stack**: Next.js 15, React 19, TypeScript, Tailwind CSS, Daisy UI, nsfwjs, MongoDB, NextAuth.JS, JWT, ImageKit.io
-- **Demo Links**: [Part 1: Introduction & Features](https://www.youtube.com/watch?v=example) | [Part 2: Special Features](https://www.youtube.com/watch?v=example)
+- **Demo Links**: [Part 1: Introduction & Features](https://youtu.be/V4u56VDxRTY?si=kZTSFfBd6q79WBeS) | [Part 2: Special Features](https://youtu.be/b4--EaAh6wA?si=RlZ8i4rndCi_7Aps)
 
 ### 3. **Smart India Hackathon 2024 (SIH): Agro-AId**
 **AI-Driven Crop Disease Detection System | Project ID: PS1638**
@@ -98,7 +111,7 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 - Developed automated system for detecting non-helmet riders using YOLOv11 by Ultralytics with OCR for license plate recognition
 - Implemented CCTV-based detection with machine learning integration
 - **Technologies**: Python, OpenCV, CNN, YOLO, Hugging Face, Gradio, OCR, Machine Learning
-- **Resources**: [Published Research Paper](https://example.com) | [Live Demo](https://huggingface.co/spaces/Abs6187/Helmet-Detect-model) | [GitHub Repository](https://github.com/Abs6187/helmet-detection)
+- **Resources**: [Published Research Paper: Real-Time Automated Helmet Detection and License Plate Recognition System Using YOLOv11 and OCR](https://www.ijrar.org/papers/IJRAR25B3370.pdf) | [Live Demo](https://huggingface.co/spaces/Abs6187/Helmet-Detect-model) | [GitHub Repository](https://github.com/Abs6187/helmet-detection)
 
 ### 7. **EduPath Explorer**[1]
 **Solo Developer | Education Technology | December 2023**
@@ -177,7 +190,7 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-Abs6187.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
------->
+-->
 
 
 - **LinkedIn**: [Abhay Gupta](https://www.linkedin.com/in/abhay-gupta-197b17264/)

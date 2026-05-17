@@ -11,6 +11,10 @@ on:
     branches:
       - main
 
+# Grant GITHUB_TOKEN write permissions to push to the output branch
+permissions:
+  contents: write
+
 # Prevent multiple concurrent deployments
 concurrency:
   group: pages-${{ github.ref }}
